@@ -1,5 +1,5 @@
-# Year - Academy - Name of the course
+# 2024 - FastAPI Documentation
 
-Notes for the course "xxx" taught by xxx at xxx.
+Learning notes for FastAPI via its documentation.
 
-Month Year.
+October 2024.
